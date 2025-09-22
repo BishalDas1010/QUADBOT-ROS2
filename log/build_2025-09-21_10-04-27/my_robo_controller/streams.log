@@ -1,0 +1,23 @@
+[0.689s] Invoking command in '/media/bishaldas/Apps/Ros2_4wheel_Control_bot/src/my_robo_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/bishaldas/Apps/Ros2_4wheel_Control_bot/build/my_robo_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/bishaldas/Apps/Ros2_4wheel_Control_bot/install/my_robo_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robo_controller build --build-base /media/bishaldas/Apps/Ros2_4wheel_Control_bot/build/my_robo_controller/build install --record /media/bishaldas/Apps/Ros2_4wheel_Control_bot/build/my_robo_controller/install.log --single-version-externally-managed install_data
+[0.837s] running egg_info
+[0.846s] writing ../../build/my_robo_controller/my_robo_controller.egg-info/PKG-INFO
+[0.848s] writing dependency_links to ../../build/my_robo_controller/my_robo_controller.egg-info/dependency_links.txt
+[0.848s] writing requirements to ../../build/my_robo_controller/my_robo_controller.egg-info/requires.txt
+[0.848s] writing top-level names to ../../build/my_robo_controller/my_robo_controller.egg-info/top_level.txt
+[0.868s] reading manifest file '../../build/my_robo_controller/my_robo_controller.egg-info/SOURCES.txt'
+[0.869s] writing manifest file '../../build/my_robo_controller/my_robo_controller.egg-info/SOURCES.txt'
+[0.869s] running build
+[0.869s] running build_py
+[0.871s] copying my_robo_controller/launch.py -> /media/bishaldas/Apps/Ros2_4wheel_Control_bot/build/my_robo_controller/build/lib/my_robo_controller
+[0.871s] running install
+[0.875s] running install_lib
+[0.885s] copying /media/bishaldas/Apps/Ros2_4wheel_Control_bot/build/my_robo_controller/build/lib/my_robo_controller/launch.py -> /media/bishaldas/Apps/Ros2_4wheel_Control_bot/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+[0.886s] byte-compiling /media/bishaldas/Apps/Ros2_4wheel_Control_bot/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller/launch.py to launch.cpython-312.pyc
+[0.886s] running install_data
+[0.886s] copying urdf/mobile_base.xacro -> /media/bishaldas/Apps/Ros2_4wheel_Control_bot/install/my_robo_controller/share/my_robo_controller/urdf
+[0.886s] running install_egg_info
+[0.897s] removing '/media/bishaldas/Apps/Ros2_4wheel_Control_bot/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[0.897s] Copying ../../build/my_robo_controller/my_robo_controller.egg-info to /media/bishaldas/Apps/Ros2_4wheel_Control_bot/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller-0.0.0-py3.12.egg-info
+[0.898s] running install_scripts
+[0.969s] writing list of installed files to '/media/bishaldas/Apps/Ros2_4wheel_Control_bot/build/my_robo_controller/install.log'
+[0.986s] Invoked command in '/media/bishaldas/Apps/Ros2_4wheel_Control_bot/src/my_robo_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/bishaldas/Apps/Ros2_4wheel_Control_bot/build/my_robo_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/bishaldas/Apps/Ros2_4wheel_Control_bot/install/my_robo_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robo_controller build --build-base /media/bishaldas/Apps/Ros2_4wheel_Control_bot/build/my_robo_controller/build install --record /media/bishaldas/Apps/Ros2_4wheel_Control_bot/build/my_robo_controller/install.log --single-version-externally-managed install_data
