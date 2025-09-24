@@ -34,11 +34,11 @@ def detect_gesture(hand_landmarks):
 
     # Forward: Index finger up
     if lm[8].y < lm[6].y:
-        return "Forward"  # Changed from "F" to "Forward"
+        return "Forward"  
     elif lm[20].y < lm[18].y:
-        return "Backward"  # Changed from "B" to "Backward"
+        return "Backward"  
     else:
-        return "Stop"  # Changed from "S" to "Stop"
+        return "Stop"  
 
 
 # ---------------- Main ----------------
