@@ -28,6 +28,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'robo_control_node = my_robo_controller.robo_control_node:main',
+            'logger = my_robo_controller.logger:main'
         ],
     },
 )
